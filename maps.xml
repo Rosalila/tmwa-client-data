@@ -503,6 +503,7 @@
   <!-- Desert Atlas -->
   <atlas name="desert">
     <file name="graphics/images/ambient/sandstorm.png"/>
+    <file name="graphics/images/ambient/dogecoin.png"/>
     <file name="graphics/tiles/desert1.png"/>
     <file name="graphics/tiles/desert2.png"/>
     <file name="graphics/tiles/desert3.png"/>
