@@ -1088,6 +1088,12 @@
     <property name="monster_id" value="1"/>
    </properties>
   </object>
+  <object name="Phaet the Royal Guard" type="npc" x="2752" y="1408">
+   <properties>
+    <property name="npc_id" value="125"/>
+    <property name="script" value=""/>
+   </properties>
+  </object>
   <object name="Scorpion" type="spawn" x="1344" y="2720" width="96" height="64">
    <properties>
     <property name="eA_death" value="30000"/>
