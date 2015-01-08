@@ -97,4 +97,8 @@
   <include name="items/usable/item3010_CandyPumpkin.xml"/>
   <include name="items/usable/item4035_PickledBeets.xml"/>
   <include name="items/usable/item4036_RoastedAcorn.xml"/>
+  <include name="items/usable/item6000_Dogecoin1.xml"/>
+  <include name="items/usable/item6001_Dogecoin10.xml"/>
+  <include name="items/usable/item6002_Dogecoin100.xml"/>
+  <include name="items/usable/item6003_Dogecoin1000.xml"/>
 </items>
