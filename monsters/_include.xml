@@ -127,8 +127,8 @@
   <include name="monsters/monster1130_Moonshroom.xml"/>
   <include name="monsters/monster1131_ManaBug.xml"/>
   <include name="monsters/monster1132_LavaSlime.xml"/>
-  <include name="monsters/monster1200_DogeTest1.xml"/>
-  <include name="monsters/monster1201_DogeTest10.xml"/>
-  <include name="monsters/monster1202_DogeTest100.xml"/>
-  <include name="monsters/monster1203_DogeTest1000.xml"/>
+  <include name="monsters/doge1900_DogeTest1.xml"/>
+  <include name="monsters/doge1901_DogeTest10.xml"/>
+  <include name="monsters/doge1902_DogeTest100.xml"/>
+  <include name="monsters/doge1903_DogeTest1000.xml"/>
 </monsters>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sprite>
-  <imageset name="base" src="graphics/sprites/npcs/npc-dogeatm.png" width="42" height="63"/>
+  <imageset name="base" src="graphics/sprites/npcs/doge-atm.png" width="42" height="63"/>
   <action name="stand" imageset="base">
     <animation direction="default">
       <!-- eyes movements -->

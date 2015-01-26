@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <monsters offset="0">
-  <monster id="1203" name="DogeTest1000" targetCursor="small">
+  <monster id="1900" name="DogeTest1" targetCursor="small">
     <sprite>monsters/maggot.xml</sprite>
     <sound event="hit">monsters/maggot/maggot-hit1.ogg</sound>
     <sound event="hit">monsters/maggot/maggot-hit2.ogg</sound>
